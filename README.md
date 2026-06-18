@@ -47,6 +47,46 @@ Plataforma integral para la gestión de trámites académicos, diseñada para au
 
 **Tecnologías:** Laravel 11 · Livewire 3 · Tailwind CSS · DomPDF · Spatie Permission
 
+### Foro con Livewire
+Plataforma de foro construida con Livewire y Tailwind CSS, desarrollada como proyecto de aprendizaje en el curso de Platzi.
+
+**Características principales:**
+- Publicación de temas y respuestas
+- Sistema de votación
+- Gestión de usuarios autenticados
+- Interfaz en tiempo real
+
+**Tecnologías:** Laravel · Livewire · Tailwind CSS
+
+## To-Do App
+Aplicación sencilla de lista de tareas para organización personal.
+
+**Características principales:**
+- Creación, edición y eliminación de tareas
+- Marcado de tareas completadas
+- Filtrado por estado
+
+**Tecnologías:** Laravel · Livewire · Tailwind CSS
+
+### E-Commerce App
+Tienda en línea sencilla con funcionalidades básicas de comercio electrónico.
+
+**Características principales:**
+- Catálogo de productos
+- Carrito de compras
+- Proceso de checkout
+
+**Tecnologías:** Laravel · Livewire · Tailwind CSS
+
+### Users CRUD
+Aplicación básica de gestión de usuarios con operaciones CRUD.
+
+**Características principales:**
+- Creación, lectura, actualización y eliminación de usuarios
+- Interfaz simple y funcional
+
+**Tecnologías:** Laravel · Livewire · Tailwind CSS
+
 ---
 
 ## 📊 Estadísticas
@@ -58,12 +98,12 @@ Plataforma integral para la gestión de trámites académicos, diseñada para au
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tu-perfil])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[tu-usuario])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tu-email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[ruddy-mejia])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[rmejiam-dev])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[rmejiam.dev@gmail.com])
 
 ---
 
 ## ⚡ Frase favorita
 
-> "El código limpio no es código que funciona, es código que es fácil de leer, entender y mantener." — Robert C. Martin
+> "Si funciona, no le muevas"
