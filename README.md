@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, mi nombre es Ruddy Mejia 👋
 
 ## 🚀 Sobre mí
 
